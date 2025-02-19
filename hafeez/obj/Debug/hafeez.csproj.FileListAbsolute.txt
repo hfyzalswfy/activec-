@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\hafeez\bin\Debug\hafeez.exe.config
+C:\Users\hp\source\repos\hafeez\bin\Debug\hafeez.exe
+C:\Users\hp\source\repos\hafeez\bin\Debug\hafeez.pdb
+C:\Users\hp\source\repos\hafeez\obj\Debug\hafeez.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\hafeez\obj\Debug\hafeez.Form1.resources
+C:\Users\hp\source\repos\hafeez\obj\Debug\hafeez.Properties.Resources.resources
+C:\Users\hp\source\repos\hafeez\obj\Debug\hafeez.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\hafeez\obj\Debug\hafeez.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\hafeez\obj\Debug\hafeez.exe
+C:\Users\hp\source\repos\hafeez\obj\Debug\hafeez.pdb
